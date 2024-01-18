@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>My Page</title>
+</head>
+<body>
+<font color = "red">
+Today is a beautiful </font>day.<br><br>
+<i>How are you?</i>
+This is a <B>sample</b> <u>web page</u><br><br>
+<b><u><i>My demo page</i></u></b>
+<br>
+End of the page
+</body>
+
+</html>
